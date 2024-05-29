@@ -4,5 +4,6 @@ public class HelloJava {
 		System.out.println("Hello GitHub");
 		hohoho
 		Sout("login");
+		sout("test merge on remote repo");
 	}
 }
