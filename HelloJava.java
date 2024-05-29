@@ -3,6 +3,6 @@ public class HelloJava {
 		System.out.println("Hello Java");
 		System.out.println("Hello GitHub");
 		hohoho
-		
+		Sout("login");
 	}
 }
